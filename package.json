@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/shintakayasu/Practice_Vue_Webpack#readme",
   "devDependencies": {
-    "webpack": "^3.0.0"
+    "webpack": "^3.0.0",
+    "webpack-dev-server": "^2.5.0"
   }
 }
