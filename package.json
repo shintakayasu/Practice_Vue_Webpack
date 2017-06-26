@@ -1,0 +1,25 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "練習用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/shintakayasu/Practice_Vue_Webpack.git"
+  },
+  "keywords": [
+    "Vue",
+    "Webpack",
+    "Node",
+    "TypeScript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shintakayasu/Practice_Vue_Webpack/issues"
+  },
+  "homepage": "https://github.com/shintakayasu/Practice_Vue_Webpack#readme"
+}
