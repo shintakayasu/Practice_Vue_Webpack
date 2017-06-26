@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/shintakayasu/Practice_Vue_Webpack/issues"
   },
-  "homepage": "https://github.com/shintakayasu/Practice_Vue_Webpack#readme"
+  "homepage": "https://github.com/shintakayasu/Practice_Vue_Webpack#readme",
+  "devDependencies": {
+    "webpack": "^3.0.0"
+  }
 }
